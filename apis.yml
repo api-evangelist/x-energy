@@ -1,0 +1,81 @@
+aid: x-energy
+name: X-energy
+description: >-
+  X-energy is an advanced nuclear reactor and fuel company headquartered in
+  Rockville, Maryland, founded in 2009 by Dr. Kam Ghaffarian. The company's
+  flagship product is the Xe-100, an 80 MWe (320 MWe four-pack) high-temperature
+  gas-cooled small modular reactor (SMR) using helium coolant and TRISO-X
+  pebble fuel, designed to deliver both electricity and high-temperature process
+  steam to industrial customers. X-energy's fuel subsidiary, TRISO-X, is
+  building a commercial TRISO fuel fabrication facility in Oak Ridge, Tennessee.
+  Project pipeline includes a four-unit Xe-100 plant for Dow Chemical at
+  Seadrift, Texas (NRC environmental assessment completed May 2026, the first
+  US advanced reactor environmental review to be completed), a 12-unit Xe-100
+  deployment with Energy Northwest at the Tri-Cities, Washington site, a
+  collaboration with Amazon Web Services for data-center power, a feasibility
+  study with LG&E and KU in Kentucky, work with Ontario Power Generation in
+  Canada, and selection under the US Department of Energy's Advanced Reactor
+  Demonstration Program (ARDP). X-energy is led by CEO J. Clay Sell and
+  Chairman/founder Dr. Kam Ghaffarian. Investors include Amazon (Climate Pledge
+  Fund), Ares Management, Citadel, Segra Capital Management, Jane Street, Ken
+  Griffin, the University of Michigan, and others. X-energy completed an
+  upsized IPO on Nasdaq in April 2026. The company does not publish a public
+  developer API or SDK.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Nuclear Energy
+  - Small Modular Reactor
+  - SMR
+  - High-Temperature Gas Reactor
+  - HTGR
+  - Xe-100
+  - TRISO Fuel
+  - TRISO-X
+  - Advanced Reactor
+  - Clean Energy
+  - Process Heat
+  - Industrial Decarbonization
+url: https://raw.githubusercontent.com/api-evangelist/x-energy/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://x-energy.com
+  - type: Xe100
+    url: https://x-energy.com/xe-100/
+  - type: TRISOXFuel
+    url: https://x-energy.com/triso-x-fuel/
+  - type: Mission
+    url: https://x-energy.com/our-mission/
+  - type: Leadership
+    url: https://x-energy.com/leadership/
+  - type: Careers
+    url: https://x-energy.com/careers/
+  - type: News
+    url: https://x-energy.com/news/
+  - type: Blog
+    url: https://x-energy.com/blog/
+  - type: Contact
+    url: https://x-energy.com/contact/
+  - type: InvestorRelations
+    url: https://investors.x-energy.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/x-energy-llc
+  - type: Twitter
+    url: https://twitter.com/x_energy_nuclear
+  - type: Facebook
+    url: https://www.facebook.com/xenergynuclear
+  - type: YouTube
+    url: https://www.youtube.com/@xenergyllc
+  - type: Instagram
+    url: https://www.instagram.com/x_energy_nuclear
+  - type: TikTok
+    url: https://www.tiktok.com/@x_energy_nuclear
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
