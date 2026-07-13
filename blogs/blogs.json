@@ -9,6 +9,13 @@
       "method": "feed"
     },
     {
+      "source": "https://x-energy.com/news/feed/",
+      "feed_url": "https://x-energy.com/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://x-energy.com/news/",
       "feed_url": "https://x-energy.com/news/feed/",
       "title": "",
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 18,
+  "fetched": "2026-07-11T11:50:51Z"
 }
